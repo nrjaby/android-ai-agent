@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+git add .
+git commit -m "Initial repo structure: backend, android, labs"
+git push
